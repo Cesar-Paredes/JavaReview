@@ -3,7 +3,7 @@ Password generator program
 
 I built this application using Java with OOP.
 
-This program generates 1000 passwords and uses the words that are inside a text. The text is a store "Alice in Wonderland"
+This program generates 1000 passwords and uses the words that are inside a text. The text is a store "Alice in Wonderland" <br/>
 
 Rules for each password:
 At least 8 characters
