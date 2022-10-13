@@ -6,11 +6,11 @@ I built this application using Java with OOP.
 This program generates 1000 passwords and uses the words that are inside a text. The text is a store "Alice in Wonderland" <br/>
 
 Rules for each password:<br/>
-At least 8 characters
-At least 1 special character
-At leas 1 upper case
-At least 1 lowe case
-Can't repeat the same word inside the password
+At least 8 characters<br/>
+At least 1 special character<br/>
+At leas 1 upper case<br/>
+At least 1 lowe case<br/>
+Can't repeat the same word inside the password<br/>
 <br/>
 The output:<br/>
 It takes every word in the text and then starts analyzing them to be able to reach the desire outcome, <br/>
