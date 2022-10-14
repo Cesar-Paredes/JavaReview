@@ -12,7 +12,7 @@ At leas 1 upper case<br/>
 At least 1 lower case<br/>
 Can't repeat the same word inside the password<br/>
 <br/>
-The output:<br/>
+Explanation of the output:<br/>
 It takes every word in the text and then starts analyzing them to be able to reach the desire outcome, <br/>
 also it will give us the reasons why it didn't take the previous words to be the chosen as a potential password.<br/>
 <br/>
