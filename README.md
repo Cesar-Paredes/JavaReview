@@ -14,7 +14,7 @@ Can't repeat the same word inside the password<br/>
 <br/>
 The output:<br/>
 It takes every word in the text and then starts analyzing them to be able to reach the desire outcome, <br/>
-also it will give us the reasons why it didint take the words previous to the choosen password.<br/>
+also it will give us the reasons why it didn't take the previous words to be the choosen as a potential password.<br/>
 <br/>
 Length 1: It means it didn't take 1 previous word because of the lenght<br/>
 Same word 1: It means it didn't take 1 previous word because the word was repeated inside the potential password.<br/>
